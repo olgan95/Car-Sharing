@@ -387,6 +387,11 @@ textarea::placeholder{
     font-weight: 800;
 }
 
+.submit:hover{
+    background-color: var(--red-color);
+    color: var(--white-color);
+}
+
 .container-footer{
     display: flex;
     justify-content: space-between;
